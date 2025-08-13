@@ -10,4 +10,7 @@ public class PlacementManagementApplication {
 		SpringApplication.run(PlacementManagementApplication.class, args);
 	}
 
+
+
+
 }
